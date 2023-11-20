@@ -28,7 +28,8 @@
   color: white;
 }
 
-.join-button, .signup-button {
+.join-button,
+.signup-button {
   color: white;
   border-radius: 3px;
   padding: 9px 20px;

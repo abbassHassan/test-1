@@ -1,6 +1,7 @@
-import React from 'react';
-import './App.css';
-import MoviesScreen from './MoviesScreen';
+import React from "react";
+import "./css/App.css";
+import MoviesScreen from "./components/MoviesScreen";
+import MovieList from "./components/MovieList";
 
 function App() {
   return (

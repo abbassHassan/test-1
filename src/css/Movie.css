@@ -1,0 +1,17 @@
+* {
+  color: white;
+}
+
+img {
+  width: 300px;
+}
+
+li {
+  display: inline-block;
+  margin: 5px;
+  text-align: center;
+}
+
+span {
+  font-size: 1rem;
+}
